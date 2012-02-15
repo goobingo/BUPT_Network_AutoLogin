@@ -1,0 +1,2 @@
+This Project deals with the problem of repeatedly enter your account and password to login on BUPT's ipv4 monitoring gateway. The password would be saved as salted MD5 value.
+To re-enter your account and password, clear your cookie for gw.bupt.edu.cn or 211.68.68.41

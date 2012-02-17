@@ -2,6 +2,8 @@
 // @name           自动登陆网络
 // @namespace      http://gw.bupt.edu.cn
 // @description	   自动登陆
+// @include        http://10.3.8.211/
+// @include        http://10.3.8.212/
 // @include        http://gw.bupt.edu.cn/
 // @include        http://211.68.68.41/
 // @version        1.1
